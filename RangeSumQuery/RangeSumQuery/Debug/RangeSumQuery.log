@@ -1,0 +1,4 @@
+﻿  RangeSumQuery.cpp
+D:\code\CPP\codingPractice\202408Summer\RangeSumQuery\RangeSumQuery\RangeSumQuery.cpp(20,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\code\CPP\codingPractice\202408Summer\RangeSumQuery\RangeSumQuery\RangeSumQuery.cpp(27,39): warning C4018: “>=”: 有符号/无符号不匹配
+  RangeSumQuery.vcxproj -> D:\code\CPP\codingPractice\202408Summer\RangeSumQuery\Debug\RangeSumQuery.exe
