@@ -1,0 +1,5 @@
+﻿  narcissistic_ number.cpp
+D:\code\CPP\codingPractice\202408Summer\three pigs\three pigs\narcissistic_ number.cpp(19,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  three pigs.vcxproj -> D:\code\CPP\codingPractice\202408Summer\three pigs\Debug\three pigs.exe
