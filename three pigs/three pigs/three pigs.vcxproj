@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -139,11 +140,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="find_can_be_sorted.cpp" />
+    <ClCompile Include="knockTheDesk.cpp" />
     <ClCompile Include="narcissistic_ number.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="random_number.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="find_can_be_sorted.h" />
+    <ClInclude Include="knock_the_desck.h" />
     <ClInclude Include="narcissistic_number.h" />
     <ClInclude Include="random_number.h" />
   </ItemGroup>

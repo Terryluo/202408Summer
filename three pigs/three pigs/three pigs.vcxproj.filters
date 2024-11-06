@@ -24,12 +24,24 @@
     <ClCompile Include="narcissistic_ number.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="knockTheDesk.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find_can_be_sorted.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="random_number.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="narcissistic_number.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="knock_the_desck.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="find_can_be_sorted.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
